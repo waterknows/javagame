@@ -1,4 +1,4 @@
-Galaga Game
+**Galaga Game
 ***************************
 Basic features:
 
